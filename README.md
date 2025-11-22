@@ -1,16 +1,18 @@
-## Hi there 👋
+# Audrey Rentz
 
-<!--
-**aren125/aren125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Audrey Rentz, a Computer Science student at Brigham Young University-Idaho pursuing a minor in Data Science.  
+I love blending technology, creativity, and problem-solving in my projects. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Currently learning: Python, Java, HTML/CSS, JavaScript, and Data Science tools.
+- My goals: Build meaningful projects that blend tech and creativity, and grow as a software developer/data analyst.
+
+## Technologies and Tools
+- **Proficient in:** Python, Java, SQL, HTML, CSS, JavaScript  
+- **Other skills:** Git/GitHub, Data Analysis, Data Visualization
+
+
+## Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/audrey-rentz-3a2648285/)  
